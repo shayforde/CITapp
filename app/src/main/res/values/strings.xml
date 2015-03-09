@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">CITapp</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Hello world is GIT working yet?</string>
     <string name="action_settings">Settings</string>
 </resources>
